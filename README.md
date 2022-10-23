@@ -1,4 +1,4 @@
-# Junghyun Kim
+# Junghyun Josh Kim
 <div align=center>
 
 :dart: **Learning by doing**
