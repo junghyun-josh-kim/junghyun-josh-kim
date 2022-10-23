@@ -13,9 +13,9 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=GitHub&logoColor=white"/> <br/> 
 
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br/> 
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <br/> 
   
-<img src="https://img.shields.io/badge/LeetCode-262729?style=flat-square&logo=LeetCode&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/LeetCode-262729?style=flat-square&logo=LeetCode&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
 
 <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-FF3366?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=Wix&logoColor=white"/><br/>
   
