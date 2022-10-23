@@ -16,7 +16,4 @@
 
 <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-FF3366?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=Wix&logoColor=white"/>
 
-<!---
-junghyun-josh-kim/junghyun-josh-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun-josh-kim&show_icons=true&theme=default)
