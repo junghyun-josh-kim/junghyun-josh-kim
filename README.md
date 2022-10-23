@@ -3,6 +3,8 @@
 
 :dart: **Learning by doing**
 
+:round_pushpin: Toronto in Canada<br/>
+
 <img src="https://img.shields.io/badge/HTML5-FF4747?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-00A1E9?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-79?style=flat-square&logo=Bootstrap&logoColor=white"/><br/> 
 
 <img src="https://img.shields.io/badge/JavaScript-FEC111?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br/>
